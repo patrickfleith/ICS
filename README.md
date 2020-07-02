@@ -1,1 +1,1 @@
-# For this project, I've made an Image Compression System
+This project I had to built an Image Compression System
